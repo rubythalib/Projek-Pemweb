@@ -1,0 +1,42 @@
+body{
+	background-color: rgb(20,20,20);
+	font-family: arial;
+	margin: 0;
+}
+h1{
+	text-align: center;
+	color: gold;
+	font-family: courier;
+}
+img{
+
+}
+h2{
+	font-size: 30px;
+	font-family: times;
+	color: gold;
+}
+p{
+	color: white;
+	text-align: justify;
+}
+a:link {
+    color: gold;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: gold;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: gold;
+    background-color: transparent;
+    text-decoration: underline;
+}
